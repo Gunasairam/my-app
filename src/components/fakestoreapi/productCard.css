@@ -1,0 +1,11 @@
+
+
+
+.cardsflex{
+    display: flex;
+    width: 98vw;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    margin: auto;
+}
